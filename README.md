@@ -24,8 +24,6 @@ A simple Flutter application that allows users to explore the alphabets of vario
   ![Alphabets Screen](https://github.com/user-attachments/assets/0305b87c-2cda-4a46-b311-7e5563dbdbd5)
 
 
-> Replace the `assets/screenshots` path with the actual path where you upload your images/screenshots.
-
 ## Project Structure
 
 ### Main Files:

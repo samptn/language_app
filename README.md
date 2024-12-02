@@ -18,13 +18,13 @@ A simple Flutter application that allows users to explore the alphabets of vario
 ## Screenshots
 
 - **Home Screen**  
-  ![Home Screen](https://github.com/user-attachments/assets/a653e009-892c-4d07-9ea3-f681d32af2e4)  
+  ![Home Screen](assets/screenshots/home_screen.png)  
 
 - **Alphabets Screen**  
-  ![Alphabets Screen](https://github.com/user-attachments/assets/0305b87c-2cda-4a46-b311-7e5563dbdbd5)
+  ![Alphabets Screen](assets/screenshots/home_screen.png)
 
 
-> Replace the `assets/screenshots` path with the actual path where you upload your images/screenshots.
+> `assets/screenshots`
 
 ## Project Structure
 

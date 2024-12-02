@@ -68,7 +68,19 @@ final List<Map<String, dynamic>> popularLanguages = [
     "startHex": "U+AC00", // Unicode in hex for Hangul syllables start
     "size": 11172, // Number of characters in the block
     "script": "Hangul",
-  }
+  },
+  {
+    "name": "Thai",
+    "startIndex": 3584, // Decimal for U+0E00
+    "startHex": "U+0E00", // Unicode in hex for Thai start
+    "size": 192, // Number of characters in the Thai block
+    "script": "Thai",
+  },
+  {
+    "name": "Bengali",
+    "startIndex": 2432, // Decimal for U+0980
+    "startHex": "U+0980", // Unicode in hex for Bengali start
+    "size": 128, // Number of characters in the Bengali block
+    "script": "Bengali",
+  },
 ];
-
-

@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "325769956900",
+    "firebase_url": "https://sample-dev-project-796a6-default-rtdb.firebaseio.com",
+    "project_id": "sample-dev-project-796a6",
+    "storage_bucket": "sample-dev-project-796a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325769956900:android:1d84a3f944fd5037ab52b1",
+        "android_client_info": {
+          "package_name": "com.example.calling_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325769956900-jobo6alk8kbpt19lr6ekaa73pcbgnl3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk0IspAvKS92VlW9-H6-Lyn_w2YjoeWZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325769956900-jobo6alk8kbpt19lr6ekaa73pcbgnl3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "325769956900-8rlsqqq005fllg4351vk1aeo4a0goesj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.callingApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325769956900:android:b414575a482ec17dab52b1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325769956900-jobo6alk8kbpt19lr6ekaa73pcbgnl3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk0IspAvKS92VlW9-H6-Lyn_w2YjoeWZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325769956900-jobo6alk8kbpt19lr6ekaa73pcbgnl3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "325769956900-8rlsqqq005fllg4351vk1aeo4a0goesj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.callingApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325769956900:android:07d276c8f21a1baaab52b1",
+        "android_client_info": {
+          "package_name": "com.example.stromsplitt_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325769956900-jobo6alk8kbpt19lr6ekaa73pcbgnl3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk0IspAvKS92VlW9-H6-Lyn_w2YjoeWZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325769956900-jobo6alk8kbpt19lr6ekaa73pcbgnl3h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "325769956900-8rlsqqq005fllg4351vk1aeo4a0goesj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.callingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

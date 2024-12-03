@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/models/language.dart';
+import '/models/language.dart';
 
 import '../styles/fonts.dart';
 
@@ -15,6 +15,7 @@ class AlphabetsScreen extends StatefulWidget {
 }
 
 class _AlphabetsScreenState extends State<AlphabetsScreen> {
+  final _scrollController = ScrollController();
   @override
   void initState() {
     super.initState();
@@ -32,6 +33,7 @@ class _AlphabetsScreenState extends State<AlphabetsScreen> {
     return Scaffold(
       body: SafeArea(
         child: ListView(
+          controller: _scrollController,
           children: [
             // create a nice ui header for the language
             Padding(

@@ -48,27 +48,27 @@ final List<Map<String, dynamic>> popularLanguages = [
     "size": 96, // Number of characters in the Hiragana block
     "script": "Hiragana",
   },
-  {
-    "name": "Japanese (Katakana)",
-    "startIndex": 12448, // Decimal for U+30A0
-    "startHex": "U+30A0", // Unicode in hex for Katakana start
-    "size": 96, // Number of characters in the Katakana block
-    "script": "Katakana",
-  },
-  {
-    "name": "Chinese (Simplified)",
-    "startIndex": 19968, // Decimal for U+4E00
-    "startHex": "U+4E00", // Unicode in hex for CJK Unified Ideographs start
-    "size": 20992, // Number of characters in the block
-    "script": "Han",
-  },
-  {
-    "name": "Korean (Hangul)",
-    "startIndex": 44032, // Decimal for U+AC00
-    "startHex": "U+AC00", // Unicode in hex for Hangul syllables start
-    "size": 11172, // Number of characters in the block
-    "script": "Hangul",
-  },
+  // {
+  //   "name": "Japanese (Katakana)",
+  //   "startIndex": 12448, // Decimal for U+30A0
+  //   "startHex": "U+30A0", // Unicode in hex for Katakana start
+  //   "size": 96, // Number of characters in the Katakana block
+  //   "script": "Katakana",
+  // },
+  // {
+  //   "name": "Chinese (Simplified)",
+  //   "startIndex": 19968, // Decimal for U+4E00
+  //   "startHex": "U+4E00", // Unicode in hex for CJK Unified Ideographs start
+  //   "size": 20992, // Number of characters in the block
+  //   "script": "Han",
+  // },
+  // {
+  //   "name": "Korean (Hangul)",
+  //   "startIndex": 44032, // Decimal for U+AC00
+  //   "startHex": "U+AC00", // Unicode in hex for Hangul syllables start
+  //   "size": 11172, // Number of characters in the block
+  //   "script": "Hangul",
+  // },
   {
     "name": "Thai",
     "startIndex": 3584, // Decimal for U+0E00

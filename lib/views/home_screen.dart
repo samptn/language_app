@@ -1,11 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:go_router/go_router.dart';
-import 'package:lottie/lottie.dart';
+
 import '../bloc/home_bloc.dart';
 import '../routes/app_pages.dart';
 import '/styles/fonts.dart';
 import '/widgets/custom_form_field.dart';
+import '/widgets/loading_indicator.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
@@ -55,14 +56,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 BlocBuilder<HomeBloc, HomeState>(
                   builder: (context, state) {
                     if (state is HomeLoading) {
-                      return Center(
-                        child: Lottie.asset(
-                          'assets/animations/loading.json',
-                          // width: 200,
-                          // height: 200,
-                          // fit: BoxFit.contain,
-                        ),
-                      );
+                      return const LoadingIndicator();
                     }
 
                     if (state is HomeLoaded) {
